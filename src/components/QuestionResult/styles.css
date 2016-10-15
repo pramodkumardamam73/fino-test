@@ -1,0 +1,29 @@
+.QuestionResult-container {
+	border-bottom: 1px solid gray;
+	padding-bottom: 10px;
+}
+
+.QuestionResult-option-list {
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+.QuestionResult-option {
+	padding: 10px;
+}
+
+.QuestionResult-option.actual {
+	background: #2c9c69;
+	color: white;
+}
+
+.QuestionResult-option.opted {
+	background: #dbba34;
+	color: white;
+}
+
+.QuestionResult-option.correct {
+	background: #2c9c69;
+	color: white;
+}

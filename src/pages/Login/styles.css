@@ -1,0 +1,23 @@
+.Login-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+
+.Login-panel {
+	padding: 50px;
+	width: 500px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	height: 300px;
+	margin: 100px 50px;
+
+}
+
+.Login-controls-container {
+	flex: 1;
+	align-items: space-between;
+}
